@@ -16,6 +16,7 @@ npm run dev
 - `/` Landing
 - `/student` واجهة الطالب
 - `/student/map` الخريطة الحية
+- `/driver` وضع السائق
 - `/ops` لوحة الإدارة
 - `/ops/sim` مقارنة قبل/بعد
 - `/about` الخصوصية والبيانات
@@ -42,4 +43,5 @@ npm run dev
 - الواجهة RTL بالكامل، والخط الافتراضي Cairo.
 - تم استخدام Leaflet بدون مفاتيح (OpenStreetMap tiles).
 - الـ Real-time يعتمد على WebSocket ثم SSE كخيار أول، ويتحول إلى polling كل 5 ثوانٍ عند الحاجة.
+- توجيه السائق يعتمد على OSRM public API لإظهار مسار طرق حقيقي.
 
