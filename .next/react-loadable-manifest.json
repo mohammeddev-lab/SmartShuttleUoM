@@ -1,0 +1,16 @@
+{
+  "components\\MapView.tsx -> @/components/MapClient": {
+    "id": "components\\MapView.tsx -> @/components/MapClient",
+    "files": [
+      "static/css/_app-pages-browser_components_MapClient_tsx.css",
+      "static/chunks/_app-pages-browser_components_MapClient_tsx.js"
+    ]
+  },
+  "components\\StudentMapView.tsx -> @/components/StudentMapClient": {
+    "id": "components\\StudentMapView.tsx -> @/components/StudentMapClient",
+    "files": [
+      "static/css/_app-pages-browser_components_StudentMapClient_tsx.css",
+      "static/chunks/_app-pages-browser_components_StudentMapClient_tsx.js"
+    ]
+  }
+}
